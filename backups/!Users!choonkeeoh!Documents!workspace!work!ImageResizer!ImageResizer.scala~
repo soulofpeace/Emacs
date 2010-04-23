@@ -1,0 +1,33 @@
+import java.io._
+
+//author: choon kee
+//program to use image magick to resize image
+object ImageResizer{
+  private flightsImageSize = "120x23" :: "120x40" :: "18x18" :: "27x23" :: "44x31" :: "80x27" :: Nil
+  private partnersImageSize = ("24x80" :: "80x24" :: "200x70")
+
+  def main(args: Array[String]){
+    args(0) match{
+      case "Flights"=>
+        flightsImageResizer(args)
+      case "Partners"=>
+        partnersImageResizer(args)
+    }
+  }
+
+  def flightsImageResizer(args:Array[String])={
+    
+  }
+
+  def partnersImageResizer(args:Array[String])={
+    println("yoyo2")
+  }
+
+  def resize(file:File, sizeList:List[String])={
+    for(size->sizeList){
+      String command = "mogrify -format gif -resize "+size +" path "+file.getParent()+"/size "+file.getAbolutePath()
+      Process resize = Runtime.getRuntime().exec(command)
+    }
+  }
+  
+}

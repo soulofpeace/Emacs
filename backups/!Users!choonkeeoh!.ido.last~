@@ -1,0 +1,404 @@
+;;; -*- coding: emacs-mule -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/choonkeeoh/Documents/workspace/Personal/querulous/src/main/scala/com/twitter/querulous/" . "query/")
+ ("/Users/choonkeeoh/Documents/workspace/Personal/querulous/src/main/scala/com/twitter/" . "querulous/")
+ ("/Users/choonkeeoh/Documents/workspace/Personal/querulous/src/main/scala/com/" . "twitter/")
+ ("/Users/choonkeeoh/Documents/workspace/Personal/querulous/src/main/scala/" . "com/")
+ ("/Users/choonkeeoh/Documents/workspace/Personal/querulous/src/main/" . "scala/")
+ ("/Users/choonkeeoh/Documents/workspace/Personal/querulous/src/" . "main/")
+ ("/Users/choonkeeoh/Documents/workspace/Personal/querulous/" . "src/")
+ ("/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/test/scala/com/bezurk/" . "dbUpdater/")
+ ("/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/test/scala/com/" . "bezurk/")
+ ("/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/test/scala/" . "com/")
+ ("/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/test/" . "scala/")
+ ("/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/main/scala/com/bezurk/db/" . "common/")
+ ("/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/main/scala/com/bezurk/dbUpdater/oagLocation/" . "db/")
+ ("/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/main/scala/com/bezurk/" . "log/")
+ ("/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/main/scala/com/" . "bezurk/")
+ ("/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/main/scala/" . "com/")
+ ("/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/main/" . "scala/")
+ ("/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/" . "main/")
+ ("/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/main/scala/com/bezurk/dbUpdater/" . "oagLocation/")
+ ("/Users/choonkeeoh/Documents/workspace/Personal/gizzard/src/main/scala/com/twitter/" . "gizzard/")
+ ("/Users/choonkeeoh/Documents/workspace/Personal/gizzard/src/main/scala/com/" . "twitter/")
+ ("/Users/choonkeeoh/Documents/workspace/Personal/gizzard/src/main/scala/" . "com/")
+ ("/Users/choonkeeoh/Documents/workspace/Personal/gizzard/src/main/" . "scala/")
+ ("/Users/choonkeeoh/Documents/workspace/Personal/gizzard/src/" . "main/")
+ ("/Users/choonkeeoh/Documents/workspace/Personal/gizzard/" . "src/")
+ ("/Users/choonkeeoh/Documents/workspace/Personal/" . "querulous/")
+ ("/Users/choonkeeoh/Downloads/" . "Virgin API Booking Schema/")
+ ("/Users/choonkeeoh/Documents/workspace/work/deals/vendor/" . "plugins/")
+ ("/Users/choonkeeoh/Documents/workspace/work/FlightsMonitor/flightsBackendMonitor/src/main/" . "resources/")
+ ("/Users/choonkeeoh/Documents/workspace/work/FlightsMonitor/notificator/src/main/scala/com/bezurk/" . "notificator/")
+ ("/Users/choonkeeoh/Documents/workspace/work/FlightsMonitor/notificator/src/main/scala/com/" . "bezurk/")
+ ("/Users/choonkeeoh/Documents/workspace/work/FlightsMonitor/notificator/src/main/scala/" . "com/")
+ ("/Users/choonkeeoh/Documents/workspace/work/FlightsMonitor/notificator/src/main/" . "scala/")
+ ("/Users/choonkeeoh/Documents/workspace/work/FlightsMonitor/notificator/src/" . "main/")
+ ("/Users/choonkeeoh/Documents/workspace/work/FlightsMonitor/notificator/" . "src/")
+ ("/Users/choonkeeoh/Documents/workspace/work/deals/app/controllers/" . "admin/")
+ ("/Users/choonkeeoh/Documents/workspace/work/deals/app/" . "views/")
+ ("/Users/choonkeeoh/Documents/workspace/work/FlightsMonitor/" . "notificator/")
+ ("/Users/choonkeeoh/Documents/workspace/work/Notificator/" . "src/")
+ ("/Users/choonkeeoh/Documents/workspace/work/notificatorScala/Notificator/src/main/java/com/bezurk/notificator/" . "singtel/")
+ ("/Users/choonkeeoh/Documents/workspace/work/notificatorScala/Notificator/src/main/java/com/bezurk/" . "notificator/")
+ ("/Users/choonkeeoh/Documents/workspace/work/notificatorScala/Notificator/src/main/java/com/" . "bezurk/")
+ ("/Users/choonkeeoh/Documents/workspace/work/notificatorScala/Notificator/src/main/java/" . "com/")
+ ("/Users/choonkeeoh/Documents/workspace/work/notificatorScala/Notificator/src/main/" . "java/")
+ ("/Users/choonkeeoh/Documents/workspace/work/notificatorScala/Notificator/src/" . "main/")
+ ("/Users/choonkeeoh/Documents/workspace/work/notificatorScala/Notificator/M1Notificator/src/main/" . "scala/")
+ ("/Users/choonkeeoh/Documents/workspace/work/notificatorScala/Notificator/M1Notificator/src/" . "main/")
+ ("/Users/choonkeeoh/Documents/workspace/work/notificatorScala/Notificator/M1Notificator/" . "src/")
+ ("/Users/choonkeeoh/Documents/workspace/work/notificatorScala/Notificator/SingtelNotificator/src/main/" . "java/")
+ ("/Users/choonkeeoh/Documents/workspace/work/notificatorScala/Notificator/SingtelNotificator/src/" . "main/")
+ ("/Users/choonkeeoh/Documents/workspace/work/notificatorScala/Notificator/SingtelNotificator/" . "src/")
+ ("/Users/choonkeeoh/Documents/workspace/work/notificatorScala/Notificator/" . "M1Notificator/")
+ ("/Users/choonkeeoh/Documents/workspace/work/notificatorScala/" . "Notificator/")
+ ("/Users/choonkeeoh/Documents/workspace/work/Notificator/src/" . "main/")
+ ("/Users/choonkeeoh/Documents/workspace/work/Notificator/src/main/" . "java/")
+ ("/Users/choonkeeoh/Documents/workspace/work/notificator/Notificator/src/test/" . "java/")
+ ("/Users/choonkeeoh/Documents/workspace/work/notificator/Notificator/src/main/" . "resources/")
+ ("/Users/choonkeeoh/Documents/workspace/work/notificator/Notificator/src/" . "test/")
+ ("/Users/choonkeeoh/Documents/workspace/work/BlackLagoon-Working/bezurk-partners/bezurk-partners-flight/bezurk-partner-flight-vietnamairlines.com/src/main/" . "resources/")
+ ("/Users/choonkeeoh/Documents/workspace/work/BlackLagoon-Working/bezurk-partners/bezurk-partners-flight/bezurk-partner-flight-vietnamairlines.com/src/" . "main/")
+ ("/" . "Users/")
+ ("/Volumes/Macintosh HD/Users/choonkeeoh/Documents/workspace/work/" . "LocationImporter/")
+ ("/Volumes/Macintosh HD/Users/choonkeeoh/Documents/workspace/" . "work/")
+ ("/Volumes/Macintosh HD/Users/choonkeeoh/Documents/" . "workspace/")
+ ("/Volumes/Macintosh HD/Users/choonkeeoh/" . "Documents/")
+ ("/Volumes/Macintosh HD/Users/" . "choonkeeoh/")
+ ("/Volumes/Macintosh HD/" . "Users/")
+ ("/Volumes/" . "Macintosh HD/")
+ ("/Users/choonkeeoh/Documents/workspace/work/SQLDumper/SQLDumper/target/" . "surefire-reports/")
+ ("/Users/choonkeeoh/Documents/workspace/work/SQLDumper/SQLDumper/src/test/scala/" . "SQLDumper/")
+ ("/Users/choonkeeoh/Documents/workspace/work/SQLDumper/SQLDumper/src/test/" . "scala/")
+ ("/Users/choonkeeoh/Documents/workspace/work/SQLDumper/SQLDumper/" . "src/")
+ ("/Users/choonkeeoh/Documents/workspace/work/SQLDumper/" . "SQLDumper/")
+ ("/Users/choonkeeoh/Documents/workspace/work/SQLDumper/SQLDumper/src/main/scala/" . "SQLDumper/")
+ ("/Users/choonkeeoh/Documents/workspace/work/SQLDumper/SQLDumper/src/main/" . "scala/")
+ ("/Users/choonkeeoh/Documents/workspace/work/SQLDumper/SQLDumper/src/" . "test/")
+ ("/Users/choonkeeoh/Documents/workspace/work/BlackLagoon-Working/bezurk-partners/bezurk-partners-flight/bezurk-partner-flight-opodo.co.uk/src/main/" . "resources/")
+ ("/Users/choonkeeoh/Documents/workspace/work/BlackLagoon-Working/bezurk-partners/bezurk-partners-flight/bezurk-partner-flight-opodo.co.uk/src/" . "main/")
+ ("/Users/choonkeeoh/Documents/workspace/work/BlackLagoon-Working/bezurk-partners/bezurk-partners-flight/bezurk-partner-flight-opodo.co.uk/" . "src/")
+ ("/Users/choonkeeoh/Documents/workspace/work/BlackLagoon-Working/bezurk-managers/bezurk-manager-flight-results-matching/src/main/" . "resources/")
+ ("/Users/choonkeeoh/Documents/workspace/work/BlackLagoon-Working/bezurk-managers/bezurk-manager-flight-results-matching/src/" . "main/")
+ ("/Users/choonkeeoh/Documents/workspace/work/BlackLagoon-Working/bezurk-managers/bezurk-manager-flight-results-matching/" . "src/")
+ ("/Users/choonkeeoh/Documents/workspace/work/BlackLagoon-Working/bezurk-partners/bezurk-partners-flight/bezurk-partner-flight-amadeus.com/src/main/java/com/bezurk/provider/flight/" . "Amadeus/")
+ ("/Users/choonkeeoh/Documents/workspace/work/BlackLagoon-Working/bezurk-partners/bezurk-partners-flight/bezurk-partner-flight-amadeus.com/src/main/java/com/bezurk/provider/" . "flight/")
+ ("/Users/choonkeeoh/Documents/workspace/work/BlackLagoon-Working/bezurk-partners/bezurk-partners-flight/bezurk-partner-flight-amadeus.com/src/main/java/com/bezurk/" . "provider/")
+ ("/Users/choonkeeoh/Documents/workspace/work/BlackLagoon-Working/bezurk-partners/bezurk-partners-flight/bezurk-partner-flight-amadeus.com/src/main/java/com/amadeus/" . "xml/")
+ ("/Users/choonkeeoh/Documents/workspace/work/BlackLagoon-Working/bezurk-partners/bezurk-partners-flight/bezurk-partner-flight-amadeus.com/src/main/java/com/" . "bezurk/")
+ ("/Users/choonkeeoh/Documents/workspace/work/BlackLagoon-Working/bezurk-partners/bezurk-partners-flight/bezurk-partner-flight-amadeus.com/src/main/java/" . "com/")
+ ("/Users/choonkeeoh/Documents/workspace/work/BlackLagoon-Working/bezurk-managers/bezurk-manager-flight-deeplink/src/main/java/com/bezurk/manager/deeplink/builder/" . "cathaypacific/")
+ ("/Users/choonkeeoh/Documents/workspace/work/BlackLagoon-Working/bezurk-managers/bezurk-manager-flight-deeplink/src/main/java/com/bezurk/manager/" . "deeplink/")
+ ("/Users/choonkeeoh/Documents/workspace/work/BlackLagoon-Working/bezurk-managers/bezurk-manager-flight-deeplink/src/main/java/com/bezurk/" . "manager/")
+ ("/Users/choonkeeoh/Documents/workspace/work/BlackLagoon-Working/bezurk-managers/bezurk-manager-flight-deeplink/src/main/java/com/" . "bezurk/")
+ ("/Users/choonkeeoh/Documents/workspace/work/BlackLagoon-Working/bezurk-managers/bezurk-manager-flight-deeplink/src/main/java/" . "com/")
+ ("/Users/choonkeeoh/Documents/workspace/work/BlackLagoon-Working/bezurk-managers/bezurk-manager-flight-deeplink/src/main/" . "java/")
+ ("/Users/choonkeeoh/Documents/workspace/work/BlackLagoon-Working/bezurk-managers/bezurk-manager-flight-deeplink/src/" . "main/")
+ ("/Users/choonkeeoh/Documents/workspace/work/BlackLagoon-Working/bezurk-managers/bezurk-manager-flight-deeplink/" . "src/")
+ ("/Users/choonkeeoh/Documents/workspace/work/BlackLagoon-Working/bezurk-managers/" . "bezurk-manager-flight-results-matching/")
+ ("/Users/choonkeeoh/.m2/repository/org/codehaus/xfire/xfire-all/" . "1.2.4/")
+ ("/Users/choonkeeoh/.m2/repository/org/codehaus/xfire/" . "xfire-all/")
+ ("/Users/choonkeeoh/.m2/repository/org/codehaus/" . "xfire/")
+ ("/Users/choonkeeoh/.m2/repository/org/" . "codehaus/")
+ ("/Users/choonkeeoh/.m2/repository/" . "org/")
+ ("/Users/choonkeeoh/.m2/" . "repository/")
+ ("/Users/choonkeeoh/Documents/workspace/work/BlackLagoon-Working/bezurk-partners/bezurk-partners-flight/bezurk-partner-flight-travel.com.au/src/main/" . "resources/")
+ ("/Users/choonkeeoh/Documents/workspace/work/BlackLagoon-Working/bezurk-partners/bezurk-partners-flight/bezurk-partner-flight-travel.com.au/src/" . "main/")
+ ("/Users/choonkeeoh/Documents/workspace/work/BlackLagoon-Working/bezurk-partners/bezurk-partners-flight/bezurk-partner-flight-travel.com.au/" . "src/")
+ ("/Users/choonkeeoh/Documents/workspace/work/BlackLagoon-Working/bezurk-partners/" . "bezurk-partners-flight/")
+ ("/Users/choonkeeoh/Documents/workspace/work/BlackLagoon-Working/bezurk-partners/bezurk-partners-flight/bezurk-partner-flight-amadeus.com/src/main/resources/com/bezurk/provider/flight/" . "Amadeus/")
+ ("/Users/choonkeeoh/Documents/workspace/work/BlackLagoon-Working/bezurk-partners/bezurk-partners-flight/bezurk-partner-flight-amadeus.com/src/main/resources/com/bezurk/provider/" . "flight/")
+ ("/Users/choonkeeoh/Documents/workspace/work/BlackLagoon-Working/bezurk-partners/bezurk-partners-flight/bezurk-partner-flight-amadeus.com/src/main/resources/com/bezurk/" . "provider/")
+ ("/Users/choonkeeoh/Documents/workspace/work/BlackLagoon-Working/bezurk-partners/bezurk-partners-flight/bezurk-partner-flight-amadeus.com/src/main/resources/com/" . "bezurk/")
+ ("/Users/choonkeeoh/Documents/workspace/work/BlackLagoon-Working/bezurk-partners/bezurk-partners-flight/bezurk-partner-flight-amadeus.com/src/main/resources/" . "com/")
+ ("/Users/choonkeeoh/Documents/workspace/work/BlackLagoon-Working/bezurk-partners/bezurk-partners-flight/bezurk-partner-flight-amadeus.com/src/main/" . "resources/")
+ ("/Users/choonkeeoh/Documents/workspace/work/BlackLagoon-Working/bezurk-partners/bezurk-partners-flight/bezurk-partner-flight-amadeus.com/src/" . "main/")
+ ("/Users/choonkeeoh/Documents/workspace/work/BlackLagoon-Working/bezurk-partners/bezurk-partners-flight/bezurk-partner-flight-amadeus.com/" . "src/")
+ ("/Users/choonkeeoh/Documents/workspace/work/BlackLagoon-Working/bezurk-partners/bezurk-partners-flight/" . "bezurk-partner-flight-virginblue.com.au/")
+ ("/Users/choonkeeoh/Documents/workspace/work/BlackLagoon-Working/" . "bezurk-partners/")
+ ("/Users/" . "choonkeeoh/")
+ ("/Users/choonkeeoh/.emacs.d/vendor/" . "color-theme/")
+ ("/Users/choonkeeoh/.emacs.d/" . "vendor/")
+ ("/Users/choonkeeoh/" . "Downloads/")
+ ("/Users/choonkeeoh/Documents/workspace/work/" . "notificatorScala/")
+ ("/Users/choonkeeoh/Documents/workspace/" . "Personal/")
+ ("/Users/choonkeeoh/Documents/" . "workspace/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/main/scala/com/bezurk/dbUpdater/"
+ "/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/main/scala/com/bezurk/dbUpdater/oagLocation/db/"
+ "/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/main/scala/com/bezurk/db/common/"
+ "/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/main/scala/com/bezurk/dbUpdater/db/"
+ "/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/main/scala/com/bezurk/dbUpdater/mapper/"
+ "/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/main/scala/com/bezurk/dbUpdater/worker/"
+ "/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/main/scala/com/bezurk/dbUpdater/oagLocation/mapper/"
+ "/Users/choonkeeoh/Documents/workspace/Personal/querulous/src/main/scala/com/twitter/querulous/test/"
+ "/Users/choonkeeoh/Documents/workspace/Personal/querulous/src/main/scala/com/twitter/querulous/query/"
+ "/Users/choonkeeoh/Documents/workspace/Personal/querulous/src/main/scala/com/twitter/querulous/database/"
+ "/Users/choonkeeoh/Documents/workspace/work/notificatorScala/Notificator/"
+ "/Users/choonkeeoh/Documents/workspace/work/DBUpdater/"
+ "/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/main/resources/"
+ "/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/main/scala/com/bezurk/log/"
+ "/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/test/scala/com/bezurk/dbUpdater/"
+ "/Users/choonkeeoh/Documents/workspace/work/LocationImporter/"
+ "/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/main/scala/com/bezurk/dbUpdater/output/"
+ "/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/main/scala/com/bezurk/dbUpdater/input/"
+ "/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/main/scala/com/bezurk/dbUpdater/oagLocation/input/"
+ "/Users/choonkeeoh/Documents/workspace/work/SQLDumper/SQLDumper/src/test/scala/SQLDumper/"
+ "/Users/choonkeeoh/Documents/workspace/work/SQLDumper/SQLDumper/src/main/scala/SQLDumper/"
+ "/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/main/scala/com/bezurk/dbUpdater/matcher/"
+ "/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/main/scala/com/bezurk/dbUpdater/oagLocation/matcher/"
+ "/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/main/scala/com/bezurk/dbUpdater/oagLocation/"
+ "/Users/choonkeeoh/Downloads/"
+ "/Users/choonkeeoh/Documents/workspace/work/DBUpdater/target/classes/com/bezurk/dbUpdater/"
+ "/Users/choonkeeoh/Documents/workspace/work/SQLDumper/SQLDumper/"
+ "/Users/choonkeeoh/scratch/"
+ "/Users/choonkeeoh/Documents/workspace/Personal/gizzard/src/main/scala/com/twitter/gizzard/"
+ "/Users/choonkeeoh/scripts/RunDir/Partner-Flight-virginblue.com.au/"
+ "/Users/choonkeeoh/Downloads/Virgin API Booking Schema/"
+ "/Users/choonkeeoh/Documents/workspace/work/BlackLagoon-Working/bezurk-partners/bezurk-partners-flight/bezurk-partner-flight-virginblue.com.au/src/main/resources/"
+ "/Users/choonkeeoh/Documents/workspace/work/deals/config/"
+ "/Users/choonkeeoh/Documents/workspace/work/deals/app/models/"
+ "/Users/choonkeeoh/Documents/workspace/work/deals/app/controllers/"
+ "/Users/choonkeeoh/Documents/workspace/work/deals/app/controllers/admin/"
+ "/Users/choonkeeoh/Documents/workspace/work/deals/app/services/"
+ "/Users/choonkeeoh/Documents/workspace/work/deals/config/environments/"
+ "/Users/choonkeeoh/Documents/workspace/work/deals/"
+ "/Users/choonkeeoh/Documents/workspace/work/deals/app/partners/"
+ "/Users/choonkeeoh/Documents/workspace/work/FlightsMonitor/flightsBackendMonitor/src/main/resources/"
+ "/Users/choonkeeoh/Documents/workspace/work/FlightsMonitor/notificator/src/main/scala/com/bezurk/notificator/"
+ "/Users/choonkeeoh/Documents/workspace/work/Notificator/src/main/java/"
+ "/Users/choonkeeoh/Documents/workspace/work/FlightsMonitor/notificator/src/test/java/com/bezurk/notificator/"
+ "/Users/choonkeeoh/Documents/workspace/work/FlightsMonitor/notificator/src/main/scala/com/bezurk/notificator/m1/"
+ "/Users/choonkeeoh/Documents/workspace/work/FlightsMonitor/notificator/"
+ "/Users/choonkeeoh/Documents/workspace/work/FlightsMonitor/flightsBackendMonitor/"
+ "/Users/choonkeeoh/Documents/workspace/work/FlightsMonitor/Notificator/"
+ "/Users/choonkeeoh/Documents/workspace/work/notificatorScala/Notificator/src/main/java/com/bezurk/notificator/singtel/"
+ "/Users/choonkeeoh/Documents/workspace/work/notificatorScala/Notificator/SingtelNotificator/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "App.scala"
+ "IataLocationDBComponent.scala"
+ "MySQLConnectionFactory.scala"
+ "SQLQueryFactory.scala"
+ "DBComponent.scala"
+ "MapperComponent.scala"
+ "WorkerFactory.scala"
+ "IataLocationMapper.scala"
+ "QueryProxy.scala"
+ "FakeQueryEvaluator.scala"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/main/scala/com/bezurk/dbUpdater/oagLocation/mapper/" (19408 22526) "IataLocationMapper.scala" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/main/scala/com/bezurk/dbUpdater/mapper/" (19408 20008) "MapperComponent.scala" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/DBUpdater/" (19408 22694) "target/" "src/" "pom.xml" "dbUpdater_main.log.1" "dbUpdater_main.log" "assembly.xml" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/main/scala/com/bezurk/db/common/" (19408 22469) "SQLQueryFactory.scala" "RetryingQueryFactory.scala" "QueryProxy.scala" "Query.scala" "MySQLPoolingConnectionFactory.scala" "MySQLConnectionFactory.scala" "ConnectionFactory.scala" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/main/scala/com/bezurk/dbUpdater/worker/" (19408 10444) "WorkerFactory.scala" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/main/scala/com/bezurk/dbUpdater/" (19408 10441) "worker/" "output/" "oagLocation/" "mapper/" "input/" "db/" "data/" "App.scala" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/DBUpdater/target/classes/com/bezurk/dbUpdater/" (19408 5285) "output/" "oagLocation/" "mapper/" "input/" "DBUpdater.class" "DBUpdater$.class" "DBUpdater$$anonfun$execute$1.class" "db/" "data/" "AppTest.class" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/main/scala/com/bezurk/dbUpdater/db/" (19408 4504) "DBComponent.scala" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/main/scala/com/bezurk/dbUpdater/oagLocation/db/" (19408 5264) "IataLocationDBComponent.scala" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/main/scala/com/bezurk/log/" (19407 59243) "LogHelper.scala" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/main/resources/" (19407 61055) "log4j.xml" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/notificatorScala/" (19390 37974) "Notificator/" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/main/" (19407 58839) "scala/" "resources/" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/main/scala/com/bezurk/" (19407 58600) "log/" "dbUpdater/" "db/" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/Personal/querulous/src/main/scala/com/twitter/querulous/test/" (19407 56475) "FakeStatsCollector.scala" "FakeQueryEvaluator.scala" "FakeQuery.scala" "FakeDatabase.scala" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/Personal/querulous/src/main/scala/com/twitter/querulous/evaluator/" (19407 56475) "Transaction.scala" "StandardQueryEvaluator.scala" "QueryEvaluatorProxy.scala" "QueryEvaluator.scala" "AutoDisablingQueryEvaluator.scala" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/Personal/querulous/src/main/scala/com/twitter/querulous/query/" (19407 56475) "TimingOutStatsCollectingQuery.scala" "TimingOutQuery.scala" "StatsCollectingQuery.scala" "SqlQuery.scala" "RetryingQuery.scala" "QueryProxy.scala" "Query.scala" "DebuggingQuery.scala" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/notificatorScala/Notificator/" (19395 11980) "target/" "standAlone.xml" "src/" "pom.xml" "assembly.xml" ".project" ".classpath" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/main/scala/com/bezurk/dbUpdater/output/" (19407 54232) "Result.scala" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/Personal/querulous/src/main/scala/com/twitter/querulous/database/" (19407 56475) "TimingOutDatabase.scala" "StatsCollectingDatabase.scala" "SingleConnectionDatabase.scala" "MemoizingDatabase.scala" "Database.scala" "ApachePoolingDatabase.scala" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/Personal/querulous/src/main/scala/com/twitter/querulous/" (19407 56475) "Timeout.scala" "test/" "StatsCollector.scala" "query/" "FutureTimeout.scala" "evaluator/" "database/" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/Personal/querulous/src/main/scala/com/twitter/" (19407 56475) "querulous/" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/Personal/querulous/src/main/scala/com/" (19407 56475) "twitter/" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/Personal/querulous/src/main/scala/" (19407 56475) "com/" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/Personal/querulous/src/main/" (19407 56475) "scala/" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/Personal/querulous/src/" (19407 56475) "test/" "main/" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/Personal/querulous/" (19407 56475) "src/" "README.markdown" "project/" "LICENSE" "ivy/" "config/" "build.xml" "ant/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/Personal/" (19407 56469) "Rowz/" "querulous/" "gizzard/" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/test/scala/com/bezurk/dbUpdater/" (19406 47512) "AppTest.scala" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/test/scala/com/bezurk/" (19406 42210) "dbUpdater/" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/test/scala/com/" (19406 42206) "bezurk/" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/test/scala/" (19406 42203) "com/" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/test/" (19406 42200) "scala/" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/main/scala/com/bezurk/dbUpdater/data/" (19407 42078) "Data.scala" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/main/scala/com/bezurk/dbUpdater/oagLocation/" (19407 43566) "mapper/" "input/" "db/" "data/" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/SQLDumper/SQLDumper/src/main/scala/SQLDumper/" (19407 43488) "SQLQueryFactory.scala" "Query.scala" "MySQLConnectionFactory.scala" "Dumper.scala" "CSVDumperFactory.scala" "CSVDumper.scala" "ConnectionFactory.scala" "App.scala" "../" "./")
+
+ ("/Users/choonkeeoh/.emacs.d/" (19407 9521) "zenburn-2006-03-19.el" "vendor/" "TODO" "starter-kit-ruby.el" "starter-kit-registers.el" "starter-kit-perl.el" "starter-kit-misc.el" "starter-kit-lisp.el" "starter-kit-js.el" "starter-kit-eshell.el" "starter-kit-elpa.el" "starter-kit-defuns.el" "starter-kit-bindings.el" "README.markdown" "places" "package.el" "loaddefs.el" "init.el" "elpa-to-submit/" "elpa/" "dominating-file.el" "COPYING" "color-theme.el" "color-theme-library.el" "color-theme-example.el" "choonkeeoh.el" "backups/" "auto-save-list/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/notificatorScala/Notificator/src/main/scala/" (19395 7982) "com/" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/notificatorScala/Notificator/src/main/java/com/bezurk/notificator/singtel/" (19395 11748) "SingtelSMSNotificator.java" "Http500Exception.java" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/Notificator/src/main/java/" (19396 8686) "SingtelSMSNotificator.java" "Notifier.java" "NotificatorFactory.java" "Notificator.java" "NotificationError.java" "M1SMSNotificator.java" "Http500Exception.java" "FlightsBackendMonitor.java" "ActiveMQQueueBrowser.java" ".svn/" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/main/scala/com/bezurk/dbUpdater/input/" (19407 40842) "InputFactory.scala" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/main/scala/com/bezurk/dbUpdater/oagLocation/data/" (19407 42180) "Location.scala" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/main/scala/com/bezurk/dbUpdater/oagLocation/input/" (19407 42241) "LocationFactory.scala" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/SQLDumper/SQLDumper/src/test/scala/" (19382 7559) "SQLDumper/" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/SQLDumper/SQLDumper/src/test/" (19382 7559) "scala/" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/main/scala/com/bezurk/dbUpdater/matcher/" (19406 44082) "MatcherFactoryComponent.scala" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/" (19406 42152) "test/" "main/" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/main/scala/com/bezurk/dbUpdater/oagLocation/matcher/" (19406 40768) "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/FlightsMonitor/notificator/src/main/scala/com/bezurk/notificator/m1/" (19395 49256) "M1SMSNotificator.scala" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/main/scala/com/" (19406 25502) "bezurk/" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/main/scala/" (19406 25496) "com/" "../" "./")
+
+ ("/Volumes/Macintosh HD/Users/choonkeeoh/Documents/workspace/work/LocationImporter/" (19406 30818) "test.out2" "test.out" "output/" "MysqlVendor.class" "MysqlVendor$.class" "mysql-connector-java-5.1.0.jar" "locations.bak" "LocationRecord.class" "LocationImporterRevamped.scala" "LocationImporter.scala~" "LocationImporter.scala" "LocationImporter.class" "LocationImporter$.class" "LocationImporter$$anonfun$splitIntoTokens$1.class" "LocationImporter$$anonfun$readFile$2.class" "LocationImporter$$anonfun$readFile$2$$anonfun$apply$1.class" "LocationImporter$$anonfun$readFile$1.class" "LocationImporter$$anonfun$readFile$1$$anonfun$apply$2.class" "LocationImporter$$anonfun$readFile$1$$anonfun$apply$1.class" "LocationImporter$$anonfun$parseInputFile$1.class" "LocationImporter$$anonfun$main$1.class" "LocationImporter$$anonfun$importFromFile$2.class" "LocationImporter$$anonfun$importFromFile$1.class" "LocationImporter$$anonfun$getCorrespondingLocationRecordInDb$1.class" "LocationImporter$$anonfun$getCorrespondingLocationRecordInDb$1$$anonfun$apply$1.class" "LocationImporter$$anonfun$5.class" "LocationImporter$$anonfun$4.class" "LocationImporter$$anonfun$4$$anonfun$apply$1.class" "LocationImporter$$anonfun$3.class" "LocationImporter$$anonfun$2.class" "LocationImporter$$anonfun$1.class" "LocationImporter$$anonfun$1$$anonfun$apply$1.class" "input/" "checkChangeCountry.py" "bak/" ".swp" ".#update5.txt" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/LocationImporter/" (19406 30818) "test.out2" "test.out" "output/" "MysqlVendor.class" "MysqlVendor$.class" "mysql-connector-java-5.1.0.jar" "locations.bak" "LocationRecord.class" "LocationImporterRevamped.scala" "LocationImporter.scala~" "LocationImporter.scala" "LocationImporter.class" "LocationImporter$.class" "LocationImporter$$anonfun$splitIntoTokens$1.class" "LocationImporter$$anonfun$readFile$2.class" "LocationImporter$$anonfun$readFile$2$$anonfun$apply$1.class" "LocationImporter$$anonfun$readFile$1.class" "LocationImporter$$anonfun$readFile$1$$anonfun$apply$2.class" "LocationImporter$$anonfun$readFile$1$$anonfun$apply$1.class" "LocationImporter$$anonfun$parseInputFile$1.class" "LocationImporter$$anonfun$main$1.class" "LocationImporter$$anonfun$importFromFile$2.class" "LocationImporter$$anonfun$importFromFile$1.class" "LocationImporter$$anonfun$getCorrespondingLocationRecordInDb$1.class" "LocationImporter$$anonfun$getCorrespondingLocationRecordInDb$1$$anonfun$apply$1.class" "LocationImporter$$anonfun$5.class" "LocationImporter$$anonfun$4.class" "LocationImporter$$anonfun$4$$anonfun$apply$1.class" "LocationImporter$$anonfun$3.class" "LocationImporter$$anonfun$2.class" "LocationImporter$$anonfun$1.class" "LocationImporter$$anonfun$1$$anonfun$apply$1.class" "input/" "checkChangeCountry.py" "bak/" ".swp" ".#update5.txt" "../" "./")
+
+ ("/Users/choonkeeoh/Downloads/" (19406 27857) "yasnippet-0.6.1c.tar.bz2" "WM Components 2.3.2.6.dmg" "Witch/" "wego_afs.html" "vlc-1.0.5.dmg" "Virgin API Overview.pdf" "Virgin API Booking Schema.zip" "Virgin API Booking Schema/" "Virgin API Booking Developer Guide.pdf" "urlparams_2_2_2.xpi" "ScalableComponent.pdf" "proxy/" "Programming_Ruby_The_Pragmatic.pdf.download/" "Programming_Ruby_The_Pragmatic.pdf" "Pragmatic_-_Agile_Web_Developm.pdf" "oldoagstaticfilesandthescriptiwrotejustnow_.zip" "ntfs-3g-2010.1.16-macosx.dmg" "nspSaved.pdf" "mysql-5.1.45-osx10.6-x86_64.tar.gz" "mysql-5.1.45-osx10.6-x86_64.dmg" "MagicPrefs.app.zip" "MacPorts-1.8.2-10.6-SnowLeopard.dmg" "location.csv" "libmemcached-0.22.tar.gz" "libmemcached-0.22/" "JavaForMacOSX10.5Update5.dmg" "iptps2010.PDF" "iphone_sdk_3.1.3_with_xcode_3.2.1__snow_leopard__10m2003a.dmg" "iphone_sdk_3-1.1.3_with_xcode_3.2.1__snow_leopard__10m2003a.dmg" "GIMP-2.6.8-p1-Snow-Leopard.dmg" "GetValidFlightCabin’¡²zhaoyi.xml" "GetValidFlightCabin?zhaoyi.xml" "flights_api_1.2.doc" "flights_api_1.1.1.doc" "Evoucher.jpg" "eclipse-themes/" "color-theme-6.6.0/" "BetterTouchTool.dmg" "About Downloads.pdf" "1.5.bak" "1.5.0.bak" "00101_-_Lenz_P_-_Build_Your_Ow.pdf" "00101_-_Lenz_P_-_Build_Your_Ow-1.pdf" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/DBUpdater/src/main/scala/com/bezurk/db/" (19406 25510) "common/" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/BlackLagoon-Working/bezurk-partners/bezurk-partners-flight/bezurk-partner-flight-vietnamairlines.com/src/main/resources/" (19353 37466) "routes.properties" "project.properties" "log4j.xml" "applicationContext.xml" ".svn/" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/SQLDumper/SQLDumper/src/test/scala/SQLDumper/" (19396 28616) "MySpec.scala" "AppTest.scala" "../" "./")
+
+ ("/Users/choonkeeoh/scripts/RunDir/Partner-Flight-travel.com.au/" (19390 45898) "stats.csv.2010-03-29" "stats.csv" "Partner.log" "Partner-Flight-travel.com.au_bestprices.csv" "Partner-Flight-travel.com.au.jar" "nohup.out" "lib/" "bin/" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/BlackLagoon-Working/bezurk-partners/bezurk-partners-flight/src/main/assembly/" (19372 24173) "assembly-standalone.xml" "assembly-javaApp.xml" "assembly-all.xml" ".svn/" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/Notificator/src/test/java/" (19390 64591) "TestNotificator.java" ".svn/" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/Notificator/src/main/resources/" (19390 60756) "monit.properties" ".svn/" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/SQLDumper/SQLDumper/src/main/scala/" (19382 7559) "SQLDumper/" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/SQLDumper/SQLDumper/src/main/" (19382 7559) "scala/" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/SQLDumper/SQLDumper/src/" (19382 7559) "test/" "main/" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/SQLDumper/SQLDumper/" (19396 28481) "src/" "pom.xml" ".git/" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/Notificator/" (19396 8799) "target/" "standAlone.xml" "src/" "pom.xml" ".svn/" ".project" ".classpath" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/FlightsMonitor/Notificator/" (19397 15563) "target/" "standAlone.xml" "src/" "pom.xml" "assembly.xml" ".project" ".classpath" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/FlightsMonitor/flightsBackendMonitor/" (19397 15901) "target/" "standAlone.xml" "src/" "pom.xml" ".project" ".classpath" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/FlightsMonitor/notificator/" (19397 15563) "target/" "standAlone.xml" "src/" "pom.xml" "assembly.xml" ".project" ".classpath" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/FlightsMonitor/notificator/src/test/java/com/bezurk/notificator/" (19396 19458) "TestNotificator.java" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/FlightsMonitor/notificator/src/main/scala/com/bezurk/notificator/" (19397 15868) "starhub/" "Notifier.scala" "NotificatorFactory.scala" "Notificator.scala" "NotificationError.scala" "m1/" "../" "./")
+
+ ("/Users/choonkeeoh/scripts/RunDir/Partner-Flight-virginblue.com.au/" (19405 24510) "stats.csv.2010-04-16" "stats.csv" "Partner-Flight-virginblue.com.au_main.log.5" "Partner-Flight-virginblue.com.au_main.log.4" "Partner-Flight-virginblue.com.au_main.log.3" "Partner-Flight-virginblue.com.au_main.log.2" "Partner-Flight-virginblue.com.au_main.log.1" "Partner-Flight-virginblue.com.au_main.log" "Partner-Flight-virginblue.com.au_bestprices.csv" "Partner-Flight-virginblue.com.au.jar" "nohup.out" "logs/" "lib/" "bin/" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/" (19406 24845) "takeoff/" "SQLDumper/" "soapui.log" "RemoteSystemsTempFiles/" "notificatorScala/" "Notificator/" "MemosoFS/" "LocationImporter/" "ImageResizer/" "FlightsMonitor/" "FlightsBackend/" "FlightsAPI/" "flights_partner_monitor/" "default-soapui-workspace.xml" "deals_old/" "deals/" "DBUpdater/" "BlackLagoon-Working/" "Bezurk_Web/" "aviatrix/" "AirlineRouteFinder/" "AirIndiaRouteImporter/" "AirAsiaRoutesImporter/" ".metadata/" ".DS_Store" "../" "./")
+
+ ("/Users/choonkeeoh/" (19405 34392) "tmp/" "Sites/" "scripts/" "scratch/" "Public/" "Pictures/" "Music/" "Movies/" "Library/" "emacs/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "Apps/" ".viminfo" ".Trash/" ".subversion/" ".ssh/" ".scala_history" ".recentf" ".org.eclipse.epp.usagedata.recording.userId" ".mysql_history" ".mc/" ".macports/" ".m2/" ".lesshst" ".irb_history" ".ido.last" ".gem/" ".eshell/" ".emacs~" ".emacs.d/" ".eclipse_keyring" ".DS_Store" ".dropbox/" ".cups/" ".CFUserTextEncoding" ".bash_profile.macports-saved_2010-03-06_at_10:21:50" ".bash_profile" ".bash_history" ".bash_alias" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/Personal/gizzard/src/main/scala/com/twitter/gizzard/" (19405 27937) "thrift/" "test/" "shards/" "scheduler/" "proxy/" "Process.scala" "nameserver/" "NamedPoolThreadFactory.scala" "jobs/" "Future.scala" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/Personal/gizzard/src/main/scala/com/twitter/" (19405 27937) "gizzard/" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/Personal/gizzard/src/main/scala/com/" (19405 27937) "twitter/" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/Personal/gizzard/src/main/scala/" (19405 27937) "com/" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/Personal/gizzard/src/main/" (19405 27937) "thrift/" "scala/" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/Personal/gizzard/src/" (19405 27937) "test/" "main/" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/Personal/gizzard/" (19405 27937) "src/" "README.markdown" "project/" "LICENSE" "ivy/" "doc/" "config/" "build.xml" "ant/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/" (19405 27923) "work/" "Project/" "Personal/" ".metadata/" ".DS_Store" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/deals/app/partners/" (19398 62143) "zuji_au.rb" "zuji.rb" "visit_singapore.rb" "virgin_blue.rb" "virgin_atlantic.rb" "twelve_fly.rb" "travel_scream.rb" "travel_au.rb" "tiger_airways.rb" "thai_fly.rb" "statravel.rb" "qatar_airways.rb" "qantas.rb" "priceline.rb" "packages2go.rb" "p2ptravel.rb" "malaysia_airlines.rb" "lion_air.rb" "last_minute.rb" "klm.rb" "klm/" "jetstar.rb" "jet_airways.rb" "integrator.rb" "hash_proxy.rb" "harvey_world.rb" "gstravel.rb" "gapadventures.rb" "flight_centre.rb" "eyoo.rb" "expedia_au.rb" "escape_travel.rb" "direct_flights.rb" "creative_holidays.rb" "cleartrip.rb" "centrepoint_tours.rb" "cebu_pacific_air.rb" "best_flights.rb" "asiatravel.rb" "alitalia.rb" "air_new_zealand.rb" "air_india_express.rb" "air_france.rb" "air_asia.rb" "aero.rb" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/deals/config/environments/" (19398 62118) "test.rb" "profile.rb" "production.rb" "integration.rb" "development.rb" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/deals/app/services/" (19400 613) "wego.rb" "travel_period_migration.rb" "query_interpreter.rb" "query.rb" "publication_policy.rb" "provider_specification.rb" "prioritized_enumerable.rb" "post_affiliate_pro.rb" "partner_importer.rb" "package_importer.rb" "package_deal_import.rb" "origin_region_specification.rb" "origin_country_specification.rb" "origin_city_specification.rb" "open_uri_adaptor.rb" "oag_service.rb" "news_corp_selection_policy.rb" "negation_specification.rb" "locale.rb" "leaf_specification.rb" "import_result.rb" "import_processor.rb" "import_format_transform.rb" "hotelr.rb" "hotel_deal_importer.rb" "hotel_deal_import.rb" "geocoder.rb" "format.rb" "flight_search.rb" "flight_deal_import.rb" "featured_deal_importer.rb" "farmer.rb" "fare_type_specification.rb" "disjunction_specification.rb" "destination_region_specification.rb" "destination_country_specification.rb" "destination_city_specification.rb" "deeplink.rb" "deal_type_specification.rb" "deal_import.rb" "dashboard_filter.rb" "currency_service.rb" "csv_parser.rb" "criteria.rb" "conjunction_specification.rb" "composite_specification.rb" "cache.rb" "api_distribution.rb" "airline_code_specification.rb" "airfare_importer.rb" "airfare_import.rb" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/deals/app/controllers/" (19399 47925) "proxies_controller.rb" "packages_controller.rb" "localised/" "heartbeat_controller.rb" "generic/" "booking_controller.rb" "application.rb" "api_controller.rb" "admin/" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/deals/app/models/" (19399 65407) "wegonomics/" "weekly_list.rb" "user.rb" "travel_period.rb" "return_point.rb" "region.rb" "random_set.rb" "provider.rb" "pick.rb" "package_deal.rb" "package.rb" "notifications.rb" "money.rb" "market.rb" "location.rb" "just_landed_deal.rb" "image.rb" "hotel_deal.rb" "flight_search_result.rb" "flight_deal.rb" "feature_period.rb" "eligibility_condition.rb" "display_policy.rb" "departure_point.rb" "deals_sitemap.rb" "deal.rb" "const.rb" "cobrand.rb" "click_through.rb" "aviatrix.rb" "airline.rb" "airfare.rb" "affiliate.rb" "../" "./")
+
+ ("/Users/choonkeeoh/Downloads/Virgin API Booking Schema/" (19405 8280) "SampleGetAvailabilityResponse.xml" "common-200502.xsd" "booking-200502.xsd" "booking-200502.wsdl" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/BlackLagoon-Working/bezurk-partners/bezurk-partners-flight/bezurk-partner-flight-virginblue.com.au/src/main/resources/" (19353 37422) "virginblue-LCache.xml" "routes.properties" "project.properties" "log4j.xml" "applicationContext.xml" ".svn/" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/BlackLagoon-Working/bezurk-partners/bezurk-partners-flight/bezurk-partner-flight-virginblue.com.au/src/main/" (19353 37422) "resources/" "java/" ".svn/" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/BlackLagoon-Working/bezurk-partners/bezurk-partners-flight/bezurk-partner-flight-virginblue.com.au/src/" (19353 37422) "test/" "main/" ".svn/" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/BlackLagoon-Working/bezurk-partners/bezurk-partners-flight/bezurk-partner-flight-virginblue.com.au/" (19353 37422) "src/" "pom.xml" ".svn/" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/" (19360 24590) "workspace/" "Personal/" "Papers/" "Ebooks/" "About Stacks.pdf" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/deals/config/" (19400 1537) "top-destinations.txt" "sphinx.yml" "routes.rb" "proxies.yml" "providers.yml" "provider_parents.yml" "oag_airlines.xml" "newrelic.yml" "monetized_providers.txt" "memcached.yml.sample" "memcached.yml" "locales/" "initializers/" "environments/" "environment.rb" "deploy.rb" "database.yml.sample" "database.yml" "currency_rates.js" "countries.yml" "cobrands.yml" "boot.rb" "amazon_s3.yml.sample" "airlines.csv" "affiliates.yml" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/deals/db/" (19398 62119) "schema.rb" "partners/" "migrate/" "maxmind/" "development_structure.sql" "../" "./")
+
+ ("/Users/choonkeeoh/scratch/" (19399 4855) "test2.txt" "test1.txt" "test.txt" "test" "stupid2.txt" "stupid1.txt" "states.sql" "pug15042010.txt" "output.html" "locations.sql" "id_dsa.pub" "id_dsa" "hotelApi.html" "emacs-starter-kit/" "countries.sql" "countries.csv" "chuyeow.txt" "chinatraveldeport.txt" "ChinaTravelDeport/" "Cathay e-Ticketing: You're done!.pdf" "brindabellaairlines/" "bezurk-partner-flight-chinatraveldepot.com/" "aeroplican/" ".svn/" ".DS_Store" "#test.txt#" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/deals/app/controllers/admin/" (19399 47644) "users_controller.rb" "top_deals_controller.rb" "services_controller.rb" "package_deals_controller.rb" "just_landed_deals_controller.rb" "import_controller.rb" "hotel_deals_controller.rb" "flight_deals_controller.rb" "featured_deals_controller.rb" "dashboard_controller.rb" "airfares_controller.rb" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/deals/app/views/" (19398 62118) "shared/" "proxies/" "notifications/" "layouts/" "heartbeat/" "booking/" "api/" "admin/" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/deals/app/" (19398 62118) "views/" "sweepers/" "services/" "presenters/" "partners/" "models/" "helpers/" "controllers/" "../" "./")
+
+ ("/Users/choonkeeoh/Documents/workspace/work/deals/" (19398 62143) "vendor/" "tmp/" "test/" "stories/" "spec/" "script/" "README" "Rakefile" "public/" "log/" "lib/" "doc/" "db/" "config/" "Capfile" "app/" ".gitignore" ".git/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
+

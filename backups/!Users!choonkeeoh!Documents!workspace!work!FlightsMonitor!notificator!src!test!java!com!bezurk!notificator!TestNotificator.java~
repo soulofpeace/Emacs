@@ -1,0 +1,17 @@
+package com.bezurk.notificator;
+
+import junit.framework.TestCase;
+
+
+public class TestNotificator extends TestCase{
+
+    // SingtelSMSNotificator noti = new SingtelSMSNotificator();
+    Notifier notifier = new Notifier();
+	
+    public void testSendNotification() throws Exception{
+            
+        notifier.sendNotification("this is a super long message. this is a super long message this is a super long message this is a super long messagethis is a super long message this is a super long messag", 
+                                  new String[]{"82883193","97516876", "90088605"},
+                                  new String[]{"M1", "Singtel", "Starhub"});
+    }
+}

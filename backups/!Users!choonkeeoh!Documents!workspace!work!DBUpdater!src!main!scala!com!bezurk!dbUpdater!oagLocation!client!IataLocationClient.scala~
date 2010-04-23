@@ -1,0 +1,12 @@
+package com.bezurk.dbUpdater.oagLocation.client
+
+import com.bezurk.dbUpdater.oagLocation.input._
+import com.bezurk.dbUpdater.oagLocation.db._
+import com.bezurk.dbUpdater.oagLocation.data._
+import com.bezurk.dbUpdater.oagLocation.mapper._
+
+class IataLocationClient extends IataLocationMapperComponent with LocationFactoryComponent with IataLocationDBComponent{
+  val inputFactory = new LocationFactory()
+  
+
+}
